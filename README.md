@@ -1,2 +1,2 @@
 # Chenche-Studio-web
-Chenche Studio
+[前往Chenche-Studio-web](./index.html)
